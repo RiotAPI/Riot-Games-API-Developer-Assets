@@ -1,0 +1,538 @@
+[
+    {
+        "championname": "Aatrox",
+        "favouriteskin": "Mecha Aatrox"
+    },
+    {
+        "championname": "Ahri",
+        "favouriteskin": "Arcade Ahri"
+    },
+    {
+        "championname": "Akali",
+        "favouriteskin": "Blood Moon Akali"
+    },
+    {
+        "championname": "Alistar",
+        "favouriteskin": "Moo Cow Alistar"
+    },
+    {
+        "championname": "Amumu",
+        "favouriteskin": "Surprise Party Amumu"
+    },
+    {
+        "championname": "Anivia",
+        "favouriteskin": "Blackfrost Anivia"
+    },
+    {
+        "championname": "Annie",
+        "favouriteskin": "Hextech Annie"
+    },
+    {
+        "championname": "Ashe",
+        "favouriteskin": "PROJECT: Ashe"
+    },
+    {
+        "championname": "Aurelion Sol",
+        "favouriteskin": "default"
+    },
+    {
+        "championname": "Azir",
+        "favouriteskin": "Warring Kingdoms Azir"
+    },
+    {
+        "championname": "Bard",
+        "favouriteskin": "Snow Day Bard"
+    },
+    {
+        "championname": "Blitzcrank",
+        "favouriteskin": "Definitely Not Blitzcrank"
+    },
+    {
+        "championname": "Brand",
+        "favouriteskin": "Zombie Brand"
+    },
+    {
+        "championname": "Braum",
+        "favouriteskin": "Santa Braum"
+    },
+    {
+        "championname": "Caitlyn",
+        "favouriteskin": "Lunar Wraith Caitlyn"
+    },
+    {
+        "championname": "Camille",
+        "favouriteskin": "default"
+    },
+    {
+        "championname": "Cassiopeia",
+        "favouriteskin": "Jade Fang Cassiopeia"
+    },
+    {
+        "championname": "Cho'Gath",
+        "favouriteskin": "Battlecast Prime Cho'Gath"
+    },
+    {
+        "championname": "Corki",
+        "favouriteskin": "Arcade Corki"
+    },
+    {
+        "championname": "Darius",
+        "favouriteskin": "Dunkmaster Darius"
+    },
+    {
+        "championname": "Diana",
+        "favouriteskin": "Blood Moon Diana"
+    },
+    {
+        "championname": "Dr. Mundo",
+        "favouriteskin": "Corporate Mundo"
+    },
+    {
+        "championname": "Draven",
+        "favouriteskin": "Soul Reaver Draven"
+    },
+    {
+        "championname": "Ekko",
+        "favouriteskin": "PROJECT: Ekko"
+    },
+    {
+        "championname": "Elise",
+        "favouriteskin": "Blood Moon Elise"
+    },
+    {
+        "championname": "Evelynn",
+        "favouriteskin": "Safecracker Evelynn"
+    },
+    {
+        "championname": "Ezreal",
+        "favouriteskin": "Arcade Ezreal"
+    },
+    {
+        "championname": "Fiddlesticks",
+        "favouriteskin": "Surprise Party Fiddlesticks"
+    },
+    {
+        "championname": "Fiora",
+        "favouriteskin": "PROJECT: Fiora"
+    },
+    {
+        "championname": "Fizz",
+        "favouriteskin": "Super Galaxy Fizz"
+    },
+    {
+        "championname": "Galio",
+        "favouriteskin": "Gatekeeper Galio"
+    },
+    {
+        "championname": "Gangplank",
+        "favouriteskin": "Dreadnova Gangplank"
+    },
+    {
+        "championname": "Garen",
+        "favouriteskin": "Warring Kingdoms Garen"
+    },
+    {
+        "championname": "Gnar",
+        "favouriteskin": "Snow Day Gnar"
+    },
+    {
+        "championname": "Gragas",
+        "favouriteskin": "Oktoberfest Gragas"
+    },
+    {
+        "championname": "Graves",
+        "favouriteskin": "Mafia Graves"
+    },
+    {
+        "championname": "Hecarim",
+        "favouriteskin": "Arcade Hecarim"
+    },
+    {
+        "championname": "Heimerdinger",
+        "favouriteskin": "Alien Invader Heimerdinger"
+    },
+    {
+        "championname": "Illaoi",
+        "favouriteskin": "default"
+    },
+    {
+        "championname": "Irelia",
+        "favouriteskin": "Frostblade Irelia"
+    },
+    {
+        "championname": "Ivern",
+        "favouriteskin": "Candy King Ivern"
+    },
+    {
+        "championname": "Janna",
+        "favouriteskin": "Star Guardian Janna"
+    },
+    {
+        "championname": "Jarvan IV",
+        "favouriteskin": "Warring Kingdoms Jarvan IV"
+    },
+    {
+        "championname": "Jax",
+        "favouriteskin": "PAX Jax"
+    },
+    {
+        "championname": "Jayce",
+        "favouriteskin": "Forsaken Jayce"
+    },
+    {
+        "championname": "Jhin",
+        "favouriteskin": "Blood Moon Jhin"
+    },
+    {
+        "championname": "Jinx",
+        "favouriteskin": "Star Guardian Jinx"
+    },
+    {
+        "championname": "Kalista",
+        "favouriteskin": "Blood Moon Kalista"
+    },
+    {
+        "championname": "Karma",
+        "favouriteskin": "Winter Wonder Karma"
+    },
+    {
+        "championname": "Karthus",
+        "favouriteskin": "Karthus Lightsbane"
+    },
+    {
+        "championname": "Kassadin",
+        "favouriteskin": "Cosmic Reaver Kassadin"
+    },
+    {
+        "championname": "Katarina",
+        "favouriteskin": "PROJECT: Katarina"
+    },
+    {
+        "championname": "Kayle",
+        "favouriteskin": "Aether Wing Kayle"
+    },
+    {
+        "championname": "Kennen",
+        "favouriteskin": "Blood Moon Kennen"
+    },
+    {
+        "championname": "Kha'Zix",
+        "favouriteskin": "Mecha Kha'Zix"
+    },
+    {
+        "championname": "Kindred",
+        "favouriteskin": "Super Galaxy Kindred"
+    },
+    {
+        "championname": "Kled",
+        "favouriteskin": "default"
+    },
+    {
+        "championname": "Kog'Maw",
+        "favouriteskin": "Pug'Maw"
+    },
+    {
+        "championname": "LeBlanc",
+        "favouriteskin": "Ravenborn LeBlanc"
+    },
+    {
+        "championname": "Lee Sin",
+        "favouriteskin": "God Fist Lee Sin"
+    },
+    {
+        "championname": "Leona",
+        "favouriteskin": "PROJECT: Leona"
+    },
+    {
+        "championname": "Lissandra",
+        "favouriteskin": "Program Lissandra"
+    },
+    {
+        "championname": "Lucian",
+        "favouriteskin": "PROJECT: Lucian"
+    },
+    {
+        "championname": "Lulu",
+        "favouriteskin": "Star Guardian Lulu"
+    },
+    {
+        "championname": "Lux",
+        "favouriteskin": "Elementalist Lux"
+    },
+    {
+        "championname": "Malphite",
+        "favouriteskin": "Mecha Malphite"
+    },
+    {
+        "championname": "Malzahar",
+        "favouriteskin": "Snow Day Malzahar"
+    },
+    {
+        "championname": "Maokai",
+        "favouriteskin": "Meowkai"
+    },
+    {
+        "championname": "Master Yi",
+        "favouriteskin": "PROJECT: Yi"
+    },
+    {
+        "championname": "Miss Fortune",
+        "favouriteskin": "Arcade Miss Fortune"
+    },
+    {
+        "championname": "Mordekaiser",
+        "favouriteskin": "King of Clubs Mordekaiser"
+    },
+    {
+        "championname": "Morgana",
+        "favouriteskin": "Bewitching Morgana"
+    },
+    {
+        "championname": "Nami",
+        "favouriteskin": "Urf the Nami-tee"
+    },
+    {
+        "championname": "Nasus",
+        "favouriteskin": "Infernal Nasus"
+    },
+    {
+        "championname": "Nautilus",
+        "favouriteskin": "AstroNautilus"
+    },
+    {
+        "championname": "Nidalee",
+        "favouriteskin": "Warring Kingdoms Nidalee"
+    },
+    {
+        "championname": "Nocturne",
+        "favouriteskin": "Eternum Nocturne"
+    },
+    {
+        "championname": "Nunu",
+        "favouriteskin": "Nunu Bot"
+    },
+    {
+        "championname": "Olaf",
+        "favouriteskin": "Brolaf"
+    },
+    {
+        "championname": "Orianna",
+        "favouriteskin": "Winter Wonder Orianna"
+    },
+    {
+        "championname": "Pantheon",
+        "favouriteskin": "Dragonslayer Pantheon"
+    },
+    {
+        "championname": "Poppy",
+        "favouriteskin": "Star Guardian Poppy"
+    },
+    {
+        "championname": "Quinn",
+        "favouriteskin": "Woad Scout Quinn"
+    },
+    {
+        "championname": "Rammus",
+        "favouriteskin": "Full Metal Rammus"
+    },
+    {
+        "championname": "Rek'Sai",
+        "favouriteskin": "Pool Party Rek'Sai"
+    },
+    {
+        "championname": "Renekton",
+        "favouriteskin": "Pool Party Renekton"
+    },
+    {
+        "championname": "Rengar",
+        "favouriteskin": "Night Hunter Rengar"
+    },
+    {
+        "championname": "Riven",
+        "favouriteskin": "Championship Riven"
+    },
+    {
+        "championname": "Rumble",
+        "favouriteskin": "Super Galaxy Rumble"
+    },
+    {
+        "championname": "Ryze",
+        "favouriteskin": "Zombie Ryze"
+    },
+    {
+        "championname": "Sejuani",
+        "favouriteskin": "Poro Rider Sejuani"
+    },
+    {
+        "championname": "Shaco",
+        "favouriteskin": "Wild Card Shaco"
+    },
+    {
+        "championname": "Shen",
+        "favouriteskin": "Blood Moon Shen"
+    },
+    {
+        "championname": "Shyvana",
+        "favouriteskin": "Championship Shyvana"
+    },
+    {
+        "championname": "Singed",
+        "favouriteskin": "Snow Day Singed"
+    },
+    {
+        "championname": "Sion",
+        "favouriteskin": "Mecha Zero Sion"
+    },
+    {
+        "championname": "Sivir",
+        "favouriteskin": "Snowstorm Sivir"
+    },
+    {
+        "championname": "Skarner",
+        "favouriteskin": "Battlecast Alpha Skarner"
+    },
+    {
+        "championname": "Sona",
+        "favouriteskin": "DJ Sona"
+    },
+    {
+        "championname": "Soraka",
+        "favouriteskin": "Reaper Soraka"
+    },
+    {
+        "championname": "Swain",
+        "favouriteskin": "Tyrant Swain"
+    },
+    {
+        "championname": "Syndra",
+        "favouriteskin": "Snow Day Syndra"
+    },
+    {
+        "championname": "Tahm Kench",
+        "favouriteskin": "Urf Kench"
+    },
+    {
+        "championname": "Taliyah",
+        "favouriteskin": "Freljord Taliyah"
+    },
+    {
+        "championname": "Talon",
+        "favouriteskin": "Blood Moon Talon"
+    },
+    {
+        "championname": "Taric",
+        "favouriteskin": "Armor of the Fifth Age Taric"
+    },
+    {
+        "championname": "Teemo",
+        "favouriteskin": "Omega Squad Teemo"
+    },
+    {
+        "championname": "Thresh",
+        "favouriteskin": "Dark Star Thresh"
+    },
+    {
+        "championname": "Tristana",
+        "favouriteskin": "Dragon Trainer Tristana"
+    },
+    {
+        "championname": "Trundle",
+        "favouriteskin": "Worldbreaker Trundle"
+    },
+    {
+        "championname": "Tryndamere",
+        "favouriteskin": "Demonblade Tryndamere"
+    },
+    {
+        "championname": "Twisted Fate",
+        "favouriteskin": "Underworld Twisted Fate"
+    },
+    {
+        "championname": "Twitch",
+        "favouriteskin": "Gangster Twitch"
+    },
+    {
+        "championname": "Udyr",
+        "favouriteskin": "Spirit Guard Udyr"
+    },
+    {
+        "championname": "Urgot",
+        "favouriteskin": "Battlecast Urgot"
+    },
+    {
+        "championname": "Varus",
+        "favouriteskin": "Dark Star Varus"
+    },
+    {
+        "championname": "Vayne",
+        "favouriteskin": "Soulstealer Vayne"
+    },
+    {
+        "championname": "Veigar",
+        "favouriteskin": "Final Boss Veigar"
+    },
+    {
+        "championname": "Vel'Koz",
+        "favouriteskin": "Arclight Vel'Koz"
+    },
+    {
+        "championname": "Vi",
+        "favouriteskin": "Warring Kingdoms Vi"
+    },
+    {
+        "championname": "Viktor",
+        "favouriteskin": "Creator Viktor"
+    },
+    {
+        "championname": "Vladimir",
+        "favouriteskin": "Soulstealer Vladimir"
+    },
+    {
+        "championname": "Volibear",
+        "favouriteskin": "Runeguard Volibear"
+    },
+    {
+        "championname": "Warwick",
+        "favouriteskin": "Hyena Warwick"
+    },
+    {
+        "championname": "Wukong",
+        "favouriteskin": "Radiant Wukong"
+    },
+    {
+        "championname": "Xerath",
+        "favouriteskin": "Guardian of the Sands Xerath"
+    },
+    {
+        "championname": "Xin Zhao",
+        "favouriteskin": "Dragonslayer Xin Zhao"
+    },
+    {
+        "championname": "Yasuo",
+        "favouriteskin": "High Noon Yasuo"
+    },
+    {
+        "championname": "Yorick",
+        "favouriteskin": "Pentakill Yorick"
+    },
+    {
+        "championname": "Zac",
+        "favouriteskin": "Pool Party Zac"
+    },
+    {
+        "championname": "Zed",
+        "favouriteskin": "Shockblade Zed"
+    },
+    {
+        "championname": "Ziggs",
+        "favouriteskin": "Master Arcanist Ziggs"
+    },
+    {
+        "championname": "Zilean",
+        "favouriteskin": "Blood Moon Zilean"
+    },
+    {
+        "championname": "Zyra",
+        "favouriteskin": "Dragon Sorceress Zyra"
+    }
+]
