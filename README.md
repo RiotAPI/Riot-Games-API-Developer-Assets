@@ -1,9 +1,5 @@
-# RG-API-Developer-Assets
+# Riot-Games-API-Developer-Assets
 Standard Assets Every Riot Games API Developer Needs
-
-*ZIP files are complete.*
-
-_Pull Requests may be accepted for collections or new complete ZIP folders._
 
 ### THE ASSETS CURRENTLY INCLUDED IN THIS REPOSITORY ARE:
 * [Tier Icons](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/tier-icons.zip) (Rank/Tier & Division Art)
@@ -102,6 +98,28 @@ There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueo
           
 More information is available on these assets [here](https://developer.riotgames.com/static-data.html)!
 
-### DISCORD
-We have an active Riot API developer community on Discord! https://discordapp.com/invite/012zEL33LUQLlYIHn
+### Communities
 
+- We have an active Riot API developer community on Discord! https://discordapp.com/invite/012zEL33LUQLlYIHn
+
+- We have a NEW [Discussions Board](https://discussion.developer.riotgames.com/index.html)! 
+
+- Follow the API team on Twitter [__[Follow]__](https://twitter.com/RiotGamesAPI)
+
+### Contribution
+
+- ZIP Folders
+
+These are completed asset packs. You may create requests with new _complete_ packs to be added. They will be updated accordingly.
+  
+- Scripts Folder
+
+This should include basic scripts/methods/ideas for reference.
+Add a folder with your script and a plaintext description
+These folders will go into a directory that includes static data for parsers etc. Get those ```../```'s ready.
+
+- Collections Folders
+
+These are any folder that's not a ZIP or in _Scripts_
+
+Any assets related to that specific folder and that are not included anywhere else in this repository may be added.
