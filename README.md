@@ -5,8 +5,18 @@ Standard Assets Every RGAPI Developer Needs
 
 _Commits may be accepted for collections or new complete ZIP folders._
 
+### DEVELOPER ACCOUNTS
+Create a RGAPI developer account [here](https://developer.riotgames.com/).
+
+After creating account, sign in and read the [API documentation](https://developer.riotgames.com/api-methods/) to learn more.
+
+There are great step-by-step guides and resources available through your RGAPI account.
+
+You will also receive a developer key to begin using the API. You will find it on your dashboard.
+
+
 ### DATA DRAGON CDN
-* There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)
+* There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view on [API page](https://developer.riotgames.com/static-data.html))
     * ### Art v6.24.1
        * Profile Icons
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/img/profileicon/588.png 
@@ -46,6 +56,6 @@ _Commits may be accepted for collections or new complete ZIP folders._
       * Summoner Spells
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/data/en_US/summoner.json
           
-More information is available on these assets [here](https://developer.riotgames.com/static-data.html).!
+More information is available on these assets [here](https://developer.riotgames.com/static-data.html)!
 
 
