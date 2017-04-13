@@ -31,7 +31,7 @@ Other API developers have created toolkits to make your life easier!
    * [Shyvana](https://github.com/shyos/Shyvana)
    * [Orianna](https://github.com/meraki-analytics/Orianna)
    * [ulti](https://github.com/a64adam/ulti)
-   * [l4j](https://github.com/stelar7/L4J)
+   * [L4J8](https://github.com/stelar7/L4J)
  * Javascript / NodeJS
    * [LeagueJS](https://github.com/claudiowilson/LeagueJS)
    * [Irelia](https://github.com/alexperezpaya/irelia)
