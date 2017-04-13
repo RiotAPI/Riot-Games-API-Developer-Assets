@@ -103,5 +103,5 @@ There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueo
 More information is available on these assets [here](https://developer.riotgames.com/static-data.html)!
 
 ### DISCORD
-We have an active Riot API developer community on Discord![Here's a permalink!](https://discord.gg/eFn89wS)
+We have an active Riot API developer community on Discord! https://discordapp.com/invite/012zEL33LUQLlYIHn
 
