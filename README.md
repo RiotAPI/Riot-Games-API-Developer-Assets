@@ -3,9 +3,18 @@ Standard Assets Every RGAPI Developer Needs
 
 *ZIP files are complete.*
 
-_Commits may be accepted for collections or new complete ZIP folders._
+_Pull Requests may be accepted for collections or new complete ZIP folders._
 
-### DEVELOPER ACCOUNTS
+### THE ASSETS CURRENTLY INCLUDED IN THIS REPOSITORY ARE
+* [Tier Icons](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/tier-icons.zip) (Rank/Tier & Division Art)
+* [Base Tier Icons](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/tier-icons.zip) (Plain Rank/Tier Art)
+* [Runes](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/runes.zip) (Standard & Unique/Holiday Rune Art)
+* [Regions](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/regions.zip) (Region Transfer Interface Art)
+* [Old Summoner Squares](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/old-summoner-squares.zip) (OG Summoner Art)
+
+
+
+### DO YOU HAVE A RGAPI DEVELOPER ACCOUNT?
 Create a RGAPI developer account [here](https://developer.riotgames.com/).
 
 After creating account, sign in and read the [API documentation](https://developer.riotgames.com/api-methods/) to learn more.
@@ -14,9 +23,21 @@ There are great step-by-step guides and resources available through your RGAPI a
 
 You will also receive a developer key to begin using the API. You will find it on your dashboard.
 
+### API WRAPPERS/LIBRARIES
+Other API developers have created toolkits to make your life easier!
+ * C#
+ * Java
+ * Javascript / NodeJS
+ * Objective C
+ * PHP
+ * Python
+ * Ruby
+ 
+This list is maintained [here](https://www.reddit.com/r/loldev/wiki/api-client-libraries) on Reddit.
+
 
 ### DATA DRAGON CDN
-* There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view on [API page](https://developer.riotgames.com/static-data.html))
+* There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view complete reference on [API page](https://developer.riotgames.com/static-data.html))
     * ### Art v6.24.1
        * Profile Icons
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/img/profileicon/588.png 
@@ -57,5 +78,7 @@ You will also receive a developer key to begin using the API. You will find it o
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/data/en_US/summoner.json
           
 More information is available on these assets [here](https://developer.riotgames.com/static-data.html)!
+
+### DISCORD
 
 
