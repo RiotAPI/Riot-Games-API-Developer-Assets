@@ -7,6 +7,7 @@ Standard Assets Every Riot Games API Developer Needs
 * [Runes](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/runes.zip) (Standard & Unique/Holiday Rune Art)
 * [Regions](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/regions.zip) (Region Transfer Interface Art)
 * [Old Summoner Squares](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/old-summoner-squares.zip) (OG Summoner Art)
+* [Champion Mastery Icons](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/champion-mastery-icons.zip) (Champion Mastery Ranks Art)
 
 
 
