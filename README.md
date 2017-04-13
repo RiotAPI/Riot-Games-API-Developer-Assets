@@ -17,7 +17,7 @@ After creating account, sign in and read the [API documentation](https://develop
 
 There are great step-by-step guides and resources available through the Riot Developer Portal.
 
-You will receive a developer key to begin using the API.
+*You will receive a developer key to begin using the [API Endpoints](https://developer.riotgames.com/api-methods/).*
 
 ### API WRAPPERS/LIBRARIES
 Other API developers have created toolkits to make your life easier!
@@ -108,18 +108,20 @@ More information is available on these assets [here](https://developer.riotgames
 
 ### Contribution
 
-- ZIP Folders
+##### ZIP Folders
 
 These are completed asset packs. You may create requests with new _complete_ packs to be added. They will be updated accordingly.
   
-- Scripts Folder
+##### Scripts Folder
 
 This should include basic scripts/methods/ideas for reference.
 Add a folder with your script and a plaintext description
 These folders will go into a directory that includes static data for parsers etc. Get those ```../```'s ready.
 
-- Collections Folders
+##### Collections Folders
 
 These are any folder that's not a ZIP or in _Scripts_
 
 Any assets related to that specific folder and that are not included anywhere else in this repository may be added.
+
+### VIEW THE RIOT GAMES [USAGE POLICIES](https://developer.riotgames.com/policies.html)!
