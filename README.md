@@ -1,11 +1,11 @@
 # RG-API-Developer-Assets
-Standard Assets Every RGAPI Developer Needs
+Standard Assets Every Riot Games API Developer Needs
 
 *ZIP files are complete.*
 
 _Pull Requests may be accepted for collections or new complete ZIP folders._
 
-### THE ASSETS CURRENTLY INCLUDED IN THIS REPOSITORY ARE
+### THE ASSETS CURRENTLY INCLUDED IN THIS REPOSITORY ARE:
 * [Tier Icons](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/tier-icons.zip) (Rank/Tier & Division Art)
 * [Base Tier Icons](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/tier-icons.zip) (Plain Rank/Tier Art)
 * [Runes](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/runes.zip) (Standard & Unique/Holiday Rune Art)
@@ -26,18 +26,40 @@ You will also receive a developer key to begin using the API. You will find it o
 ### API WRAPPERS/LIBRARIES
 Other API developers have created toolkits to make your life easier!
  * C#
+   * [CreepScore](https://github.com/golf1052/CreepScore)
+   * [RiotSharp](https://github.com/BenFradet/RiotSharp)
+   * [LeagueOfLegendsAPI](https://github.com/XeeX/LeagueOfLegendsAPI)
  * Java
+   * [riot-api-java](https://github.com/taycaldwell/riot-api-java)
+   * [Shyvana](https://github.com/shyos/Shyvana)
+   * [Orianna](https://github.com/meraki-analytics/Orianna)
+   * [ulti](https://github.com/a64adam/ulti)
+   * [l4j](https://github.com/stelar7/L4J)
  * Javascript / NodeJS
+   * [LeagueJS](https://github.com/claudiowilson/LeagueJS)
+   * [Irelia](https://github.com/alexperezpaya/irelia)
+   * [rito-pls](https://github.com/brucewsinc/rito-pls)
+   * [emmorts-lolapi](https://github.com/emmorts/lolapi)
  * Objective C
+   * [LoLAPI](https://github.com/troystump/LoLAPI)
  * PHP
+   * [LeagueWrap](https://github.com/paquettg/leaguewrap)
+   * [php-riot-api](https://github.com/kevinohashi/php-riot-api)
+   * [League-of-legends-php-class](https://github.com/haringsrob/League-of-legends-php-class)
  * Python
+   * [Riot-Watcher](https://github.com/pseudonym117/Riot-Watcher)
+   * [lolapi](https://github.com/Kruptein/lolapi)
+   * [lolpy](https://github.com/p-ob/lolPy)
  * Ruby
+   * [Ruby-Lol](https://github.com/mikamai/ruby-lol)
+   * [riot_lol_api](https://github.com/francois-blanchard/riot_lol_api)
+   * [riot_games_api](https://github.com/shishi/riot_games_api)
  
 This list is maintained [here](https://www.reddit.com/r/loldev/wiki/api-client-libraries) on Reddit.
 
 
 ### DATA DRAGON CDN
-* There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view complete reference on [API page](https://developer.riotgames.com/static-data.html))
+* There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view complete reference on [RGAPI page](https://developer.riotgames.com/static-data.html))
     * ### Art v6.24.1
        * Profile Icons
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/img/profileicon/588.png 
