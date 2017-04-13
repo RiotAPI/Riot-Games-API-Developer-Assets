@@ -14,14 +14,14 @@ _Pull Requests may be accepted for collections or new complete ZIP folders._
 
 
 
-### DO YOU HAVE A RGAPI DEVELOPER ACCOUNT?
+### DO YOU HAVE A RGAPI DEVELOPER ACCOUNT? ([Riot's *Getting Started* Guide](https://developer.riotgames.com/getting-started.html))
 Create a RGAPI developer account [here](https://developer.riotgames.com/).
 
 After creating account, sign in and read the [API documentation](https://developer.riotgames.com/api-methods/) to learn more.
 
-There are great step-by-step guides and resources available through your RGAPI account.
+There are great step-by-step guides and resources available through the Riot Developer Portal.
 
-You will also receive a developer key to begin using the API. You will find it on your dashboard.
+You will receive a developer key to begin using the API.
 
 ### API WRAPPERS/LIBRARIES
 Other API developers have created toolkits to make your life easier!
@@ -59,8 +59,9 @@ This list is maintained [here](https://www.reddit.com/r/loldev/wiki/api-client-l
 
 
 ### DATA DRAGON CDN
-* There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view complete reference on [RGAPI page](https://developer.riotgames.com/static-data.html))
-    * ### Art v6.24.1
+There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view complete reference on [RGAPI page](https://developer.riotgames.com/static-data.html))
+
+  * ### Art v6.24.1
        * Profile Icons
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/img/profileicon/588.png 
        * Champion Splash Art
@@ -83,7 +84,7 @@ This list is maintained [here](https://www.reddit.com/r/loldev/wiki/api-client-l
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/img/sprite/spell0.png 
        * Mini Maps v6.8.1
           * http://ddragon.leagueoflegends.com/cdn/6.8.1/img/map/map11.png 
-    * ### Data v6.24.1
+  * ### Data v6.24.1
       * Profile Icons
           * http://ddragon.leagueoflegends.com/cdn/6.24.1/data/en_US/profileicon.json 
       * Champions
@@ -102,5 +103,5 @@ This list is maintained [here](https://www.reddit.com/r/loldev/wiki/api-client-l
 More information is available on these assets [here](https://developer.riotgames.com/static-data.html)!
 
 ### DISCORD
-
+We have an active Riot API developer community on Discord![Here's a permalink!](https://discord.gg/eFn89wS)
 
