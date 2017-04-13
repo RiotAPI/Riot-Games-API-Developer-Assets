@@ -52,7 +52,7 @@ Other API developers have created toolkits to make your life easier!
    * [riot_lol_api](https://github.com/francois-blanchard/riot_lol_api)
    * [riot_games_api](https://github.com/shishi/riot_games_api)
  
-This list is maintained [here](https://www.reddit.com/r/loldev/wiki/api-client-libraries) on Reddit.
+A complete list is maintained [here](https://discussion.developer.riotgames.com/articles/61/public-libraries-for-the-riot-games-api.html) on the discussion boards.
 
 
 ### DATA DRAGON CDN
