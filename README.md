@@ -9,7 +9,7 @@ Standard Assets Every Riot Games API Developer Needs
 * [Old Summoner Squares](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/old-summoner-squares.zip) (OG Summoner Art)
 * [Champion Mastery Icons](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/champion-mastery-icons.zip) (Champion Mastery Ranks Art)
 * [Compressed Champion Squares](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/champion-squares-compressed.zip) (Standard Champion Squares Compressed)
-* [Champions' Favorite Skin JSON](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets)(Champions JSON Paired With Favorite Skin)
+* [Champions' Favorite Skin JSON](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets) (Champions Paired With Favorite Skin)
 
 
 ### DO YOU HAVE A RGAPI DEVELOPER ACCOUNT? ([Riot's *Getting Started* Guide](https://developer.riotgames.com/getting-started.html))
