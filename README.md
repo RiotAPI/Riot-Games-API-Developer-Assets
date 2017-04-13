@@ -125,4 +125,6 @@ These are any folder that's not a ZIP or in _Scripts_
 
 Any assets related to that specific folder and that are not included anywhere else in this repository may be added.
 
+_Assets may not contain Riot Games Logos _
+
 ### VIEW THE RIOT GAMES [USAGE POLICIES](https://developer.riotgames.com/policies.html)!
