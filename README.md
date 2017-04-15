@@ -23,35 +23,6 @@ There are great step-by-step guides and resources available through the Riot Dev
 
 ### API WRAPPERS/LIBRARIES
 Other API developers have created toolkits to make your life easier!
- * C#
-   * [CreepScore](https://github.com/golf1052/CreepScore)
-   * [RiotSharp](https://github.com/BenFradet/RiotSharp)
-   * [LeagueOfLegendsAPI](https://github.com/XeeX/LeagueOfLegendsAPI)
- * Java
-   * [riot-api-java](https://github.com/taycaldwell/riot-api-java)
-   * [Shyvana](https://github.com/shyos/Shyvana)
-   * [Orianna](https://github.com/meraki-analytics/Orianna)
-   * [ulti](https://github.com/a64adam/ulti)
-   * [L4J8](https://github.com/stelar7/L4J)
- * Javascript / NodeJS
-   * [LeagueJS](https://github.com/claudiowilson/LeagueJS)
-   * [Irelia](https://github.com/alexperezpaya/irelia)
-   * [rito-pls](https://github.com/brucewsinc/rito-pls)
-   * [emmorts-lolapi](https://github.com/emmorts/lolapi)
- * Objective C
-   * [LoLAPI](https://github.com/troystump/LoLAPI)
- * PHP
-   * [LeagueWrap](https://github.com/paquettg/leaguewrap)
-   * [php-riot-api](https://github.com/kevinohashi/php-riot-api)
-   * [League-of-legends-php-class](https://github.com/haringsrob/League-of-legends-php-class)
- * Python
-   * [Riot-Watcher](https://github.com/pseudonym117/Riot-Watcher)
-   * [lolapi](https://github.com/Kruptein/lolapi)
-   * [lolpy](https://github.com/p-ob/lolPy)
- * Ruby
-   * [Ruby-Lol](https://github.com/mikamai/ruby-lol)
-   * [riot_lol_api](https://github.com/francois-blanchard/riot_lol_api)
-   * [riot_games_api](https://github.com/shishi/riot_games_api)
  
 A complete list is maintained [here](https://discussion.developer.riotgames.com/articles/61/public-libraries-for-the-riot-games-api.html) on the discussion boards.
 
