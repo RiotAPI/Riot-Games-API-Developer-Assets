@@ -6,10 +6,11 @@ Standard Assets Every Riot Games API Developer Needs
 * [Tier Icons](https://github.com/hunterwodzenski/RG-API-Developer-Assets/blob/master/tier-icons.zip) (Rank/Tier & Division Art)
 * [Runes](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/tree/master/runes-icons) (Standard & Unique/Holiday Rune Art)
 * [Regions](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/tree/master/region-selection-art) (Region Transfer Interface Art)
-* [Old Summoner Squares]() (OG Summoner Art)
+* [Old Summoner Squares] (OG Summoner Art)
 * [Champion Mastery Icons](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/tree/master/champion-mastery-icons) (Champion Mastery Ranks Art)
 * [Compressed Champion Squares](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/champion-squares-compressed.zip) (Standard Champion Squares)
 * [Champions' Favorite Skin JSON](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/most-popular-skins.json) (Champions Paired With Favorite Skin)
+* [Champion Splash Tiles](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/champion-splash-tiles.zip) (Champion Splash Squares from Client)
 
 
 ### DO YOU HAVE A RGAPI DEVELOPER ACCOUNT? ([Riot's *Getting Started* Guide](https://developer.riotgames.com/getting-started.html))
