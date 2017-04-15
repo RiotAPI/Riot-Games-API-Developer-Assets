@@ -30,7 +30,7 @@ A complete list is maintained [here](https://discussion.developer.riotgames.com/
 
 ### DATA DRAGON CDN
 
-There's TONS of assets hosted on the [DDragon CDN](http://http://ddragon.leagueoflegends.com/tool/.com)! (view complete reference on [RGAPI page](https://developer.riotgames.com/static-data.html))
+There's TONS of assets hosted on Data Dragon! (view complete reference on the [RGAPI page](https://developer.riotgames.com/static-data.html))
 
 ### Communities
 
