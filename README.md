@@ -11,6 +11,7 @@ Standard Assets Every Riot Games API Developer Needs
 * [Compressed Champion Squares](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/champion-squares-compressed.zip) (Standard Champion Squares)
 * [Champions' Favorite Skin JSON](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/most-popular-skins.json) (Champions Paired With Favorite Skin)
 * [Champion Splash Tiles](https://github.com/hunterwodzenski/Riot-Games-API-Developer-Assets/blob/master/champion-splash-tiles.zip) (Champion Splash Squares from Client)
+* [Class Icons](https://github.com/RiotAPI/Riot-Games-API-Developer-Assets/tree/master/class-icons) (Champion Class/Subclass Icons)
 
 
 ### DO YOU HAVE A RGAPI DEVELOPER ACCOUNT? ([Riot's *Getting Started* Guide](https://developer.riotgames.com/getting-started.html))
